@@ -27,7 +27,7 @@
     "core-js": "^2.5.4",
     "ejs": "^2.6.1",
     "fusioncharts": "^3.13.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "luxon": "^1.17.2",
     "ng2-charts": "^2.2.3",
